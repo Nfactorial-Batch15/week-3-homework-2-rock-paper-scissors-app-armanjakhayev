@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C2A33C35276C28CF00D336EB /* PageTwoMulti.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A33C34276C28CF00D336EB /* PageTwoMulti.swift */; };
+		C2A33C37276C299E00D336EB /* PageThreeMulti.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A33C36276C299E00D336EB /* PageThreeMulti.swift */; };
+		C2A33C39276C2A7300D336EB /* PageFourMulti.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A33C38276C2A7300D336EB /* PageFourMulti.swift */; };
+		C2A33C3B276C2C3B00D336EB /* PageFiveMulti.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A33C3A276C2C3B00D336EB /* PageFiveMulti.swift */; };
+		C2A33C3D276C2CA900D336EB /* PageSixMulti.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A33C3C276C2CA900D336EB /* PageSixMulti.swift */; };
 		C2EE4671276A983000200DD0 /* RockpaperScissorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE4670276A983000200DD0 /* RockpaperScissorsApp.swift */; };
 		C2EE4673276A983000200DD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE4672276A983000200DD0 /* ContentView.swift */; };
 		C2EE4675276A983600200DD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2EE4674276A983600200DD0 /* Assets.xcassets */; };
 		C2EE4678276A983600200DD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2EE4677276A983600200DD0 /* Preview Assets.xcassets */; };
+		C2EE467F276A986100200DD0 /* PageOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE467E276A986100200DD0 /* PageOne.swift */; };
+		C2EE4681276A9F3700200DD0 /* PageTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE4680276A9F3700200DD0 /* PageTwo.swift */; };
+		C2EE4685276AAE5C00200DD0 /* PageThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE4684276AAE5C00200DD0 /* PageThree.swift */; };
+		C2EE4687276AE93900200DD0 /* PageFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE4686276AE93900200DD0 /* PageFour.swift */; };
+		C2EE468B276B331300200DD0 /* PageFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE468A276B331300200DD0 /* PageFive.swift */; };
+		C2EE468D276B360600200DD0 /* PageSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2EE468C276B360600200DD0 /* PageSix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C2A33C34276C28CF00D336EB /* PageTwoMulti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTwoMulti.swift; sourceTree = "<group>"; };
+		C2A33C36276C299E00D336EB /* PageThreeMulti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageThreeMulti.swift; sourceTree = "<group>"; };
+		C2A33C38276C2A7300D336EB /* PageFourMulti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFourMulti.swift; sourceTree = "<group>"; };
+		C2A33C3A276C2C3B00D336EB /* PageFiveMulti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFiveMulti.swift; sourceTree = "<group>"; };
+		C2A33C3C276C2CA900D336EB /* PageSixMulti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageSixMulti.swift; sourceTree = "<group>"; };
 		C2EE466D276A983000200DD0 /* RockpaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockpaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2EE4670276A983000200DD0 /* RockpaperScissorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockpaperScissorsApp.swift; sourceTree = "<group>"; };
 		C2EE4672276A983000200DD0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C2EE4674276A983600200DD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2EE4677276A983600200DD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C2EE467E276A986100200DD0 /* PageOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageOne.swift; sourceTree = "<group>"; };
+		C2EE4680276A9F3700200DD0 /* PageTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTwo.swift; sourceTree = "<group>"; };
+		C2EE4684276AAE5C00200DD0 /* PageThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageThree.swift; sourceTree = "<group>"; };
+		C2EE4686276AE93900200DD0 /* PageFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFour.swift; sourceTree = "<group>"; };
+		C2EE468A276B331300200DD0 /* PageFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFive.swift; sourceTree = "<group>"; };
+		C2EE468C276B360600200DD0 /* PageSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageSix.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +75,17 @@
 			children = (
 				C2EE4670276A983000200DD0 /* RockpaperScissorsApp.swift */,
 				C2EE4672276A983000200DD0 /* ContentView.swift */,
+				C2EE467E276A986100200DD0 /* PageOne.swift */,
+				C2EE4680276A9F3700200DD0 /* PageTwo.swift */,
+				C2EE4684276AAE5C00200DD0 /* PageThree.swift */,
+				C2EE4686276AE93900200DD0 /* PageFour.swift */,
+				C2EE468A276B331300200DD0 /* PageFive.swift */,
+				C2EE468C276B360600200DD0 /* PageSix.swift */,
+				C2A33C34276C28CF00D336EB /* PageTwoMulti.swift */,
+				C2A33C36276C299E00D336EB /* PageThreeMulti.swift */,
+				C2A33C38276C2A7300D336EB /* PageFourMulti.swift */,
+				C2A33C3A276C2C3B00D336EB /* PageFiveMulti.swift */,
+				C2A33C3C276C2CA900D336EB /* PageSixMulti.swift */,
 				C2EE4674276A983600200DD0 /* Assets.xcassets */,
 				C2EE4676276A983600200DD0 /* Preview Content */,
 			);
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2EE468B276B331300200DD0 /* PageFive.swift in Sources */,
+				C2EE4687276AE93900200DD0 /* PageFour.swift in Sources */,
+				C2A33C39276C2A7300D336EB /* PageFourMulti.swift in Sources */,
+				C2EE467F276A986100200DD0 /* PageOne.swift in Sources */,
 				C2EE4673276A983000200DD0 /* ContentView.swift in Sources */,
+				C2A33C3D276C2CA900D336EB /* PageSixMulti.swift in Sources */,
+				C2A33C3B276C2C3B00D336EB /* PageFiveMulti.swift in Sources */,
 				C2EE4671276A983000200DD0 /* RockpaperScissorsApp.swift in Sources */,
+				C2EE4685276AAE5C00200DD0 /* PageThree.swift in Sources */,
+				C2EE468D276B360600200DD0 /* PageSix.swift in Sources */,
+				C2A33C37276C299E00D336EB /* PageThreeMulti.swift in Sources */,
+				C2EE4681276A9F3700200DD0 /* PageTwo.swift in Sources */,
+				C2A33C35276C28CF00D336EB /* PageTwoMulti.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
